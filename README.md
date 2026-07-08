@@ -26,3 +26,9 @@ An AI-powered translation application built using FastAPI, Groq Llama, HTML, CSS
 - Llama 3.3 70B
 
 ## 📂 Project Structure
+
+## Running the project locally
+
+Backend:
+```bash
+python -m uvicorn main:app --reload
